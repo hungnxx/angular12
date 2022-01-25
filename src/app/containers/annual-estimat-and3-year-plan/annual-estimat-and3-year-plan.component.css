@@ -1,0 +1,10 @@
+.breadcrumb {
+    background: transparent;
+    padding: 0;
+    white-space: nowrap;
+    margin-bottom: 0;
+    color: #747474;
+    font-size: 1em;
+    position: absolute;
+    left: 55px;
+}
